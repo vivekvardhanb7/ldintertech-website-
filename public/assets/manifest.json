@@ -1,0 +1,66 @@
+{
+  "brand": {
+    "company": "LD InterTech Innovation",
+    "sourceUrl": "https://ldintertech.com",
+    "officialLogo": "/assets/logo/ld-intertech-logo.png",
+    "palette": {
+      "canvas": "#10100F",
+      "surface": "#161615",
+      "elevated": "#1E1E1C",
+      "textPrimary": "#FCFCFC",
+      "accentPrimary": "#A374FF",
+      "accentSecondary": "#9ECFFA",
+      "accentWarm": "#E6CF80"
+    },
+    "contact": {
+      "email": "info@ldintertech.com",
+      "phone": "+91 9392031593",
+      "address": "M/S Proactive Plug and Play, 40-1/1-30 A, Laxmi Nagar, Mogalrajpuram, Vijayawada, Andhra Pradesh, Pin: 520010"
+    }
+  },
+  "assets": [
+    {
+      "filename": "logo/ld-intertech-logo.png",
+      "path": "/assets/logo/ld-intertech-logo.png",
+      "category": "brand",
+      "sourcePage": "https://ldintertech.com",
+      "dimensions": "1600x440",
+      "usagePermissions": "Official company brand mark extracted from ldintertech.com; proportions preserved."
+    },
+    {
+      "filename": "vending-machines/medical/medical-kiosk-studio.jpg",
+      "path": "/assets/vending-machines/medical/medical-kiosk-studio.jpg",
+      "category": "medical",
+      "sourcePage": "Original studio render inspired by commercial glass-front healthcare dispensing cabinets",
+      "usagePermissions": "Original generated commercial product asset; free of third-party branding."
+    },
+    {
+      "filename": "vending-machines/pizza/pizza-kiosk-studio.jpg",
+      "path": "/assets/vending-machines/pizza/pizza-kiosk-studio.jpg",
+      "category": "pizza",
+      "sourcePage": "https://vendinaf.com/en/products/pizza-machine (structural & specification reference)",
+      "usagePermissions": "Original generated commercial product photography inspired by reference machine proportions without Vendinaf logos or identity."
+    },
+    {
+      "filename": "vending-machines/snacks/snack-kiosk-studio.jpg",
+      "path": "/assets/vending-machines/snacks/snack-kiosk-studio.jpg",
+      "category": "snacks",
+      "sourcePage": "https://vendinaf.com/en/products/gourmet-machine (structural & specification reference)",
+      "usagePermissions": "Original generated commercial product photography inspired by glass-front smart food/snack cabinets without third-party branding."
+    },
+    {
+      "filename": "vending-machines/return/return-kiosk-studio.jpg",
+      "path": "/assets/vending-machines/return/return-kiosk-studio.jpg",
+      "category": "return",
+      "sourcePage": "https://vendinaf.com/en/products/return-automats (structural & specification reference)",
+      "usagePermissions": "Original generated commercial product photography inspired by dual-intake return automats without third-party branding."
+    },
+    {
+      "filename": "backgrounds/architectural-transit-hub.jpg",
+      "path": "/assets/backgrounds/architectural-transit-hub.jpg",
+      "category": "environment",
+      "sourcePage": "Original architectural deployment photography",
+      "usagePermissions": "Original generated architectural environment image."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "LD Intertech — Smart Vending Machines",
+  "description": "Intelligent smart vending machine solutions by LD Intertech Innovation across medical, pizza, snack, and reverse vending systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
